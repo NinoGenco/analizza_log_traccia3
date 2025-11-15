@@ -1,0 +1,7 @@
+[
+    ["2024-11-23 12:33:01", "user1", "APP", "login", "LOGIN_SUCCESS", "Utente loggato", "web", "192.168.0.2"],
+    ["2024-11-23 12:34:10", "user2", "APP", "search", "SEARCH_ITEM", "Ricerca effettuata", "web", "192.168.0.5"],
+    ["2024-11-23 12:35:44", "user1", "APP", "logout", "LOGOUT", "Utente uscito", "web", "192.168.0.2"],
+    ["2024-11-23 12:36:50", "user3", "APP", "login", "LOGIN_SUCCESS", "Utente loggato", "mobile", "192.168.0.20"],
+    ["2024-11-23 12:38:42", "user2", "APP", "search", "SEARCH_ITEM", "Ricerca effettuata", "mobile", "192.168.0.5"]
+]
